@@ -2,12 +2,10 @@
 
 #### Instagram API built to fetch user's profile, followers, following and posts
 
-## [foodly.ml](http://foodly.ml/)
 
 ### Prerequisites
 - install [xampp](https://www.apachefriends.org/download.html)
 - clone this repository into xampp/htdocs
-- 
 
 
 ## Authors
@@ -16,4 +14,4 @@
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md] file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/bhavyamendiratta/Instagram-API/blob/master/LICENSE) file for details
